@@ -1,0 +1,20 @@
+.full_w{
+	width: 100%;
+}
+.pad_20{
+	padding: 20px;
+}
+.mar_bt_50{
+	margin-bottom: 50px;
+}
+.custom_height{
+	height: 420px;
+}
+
+.container{
+	width: 960px;
+}
+
+.pricing_text{
+	width: 700px;
+}
